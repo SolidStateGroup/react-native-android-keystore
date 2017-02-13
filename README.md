@@ -1,5 +1,5 @@
 ### React Native Android Keystore
-Prepare a react-native app for release on Android
+Prepare a React Native app for release on Android
 
 Generates a release keystore, updates your local gradle configuration and finally updates the app's gradle config.
 
@@ -12,10 +12,5 @@ npm install react-native-android-keystore -g
 
 #### Usage
 ```
-react-native-android-keystore <newName>
-```
-
-#### Example
-```
-react-native-android-keystore "Awesome App"
+react-native-android-keystore
 ```
